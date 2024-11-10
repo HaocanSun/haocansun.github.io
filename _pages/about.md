@@ -30,7 +30,7 @@ My academic background lies at the intersection of communication studies, public
 
 [Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
 
-(Co-first author) Zhenchao Hu,**Haocan Sun**, Haixu Liang, Wenzhen Cao, Jia Yi Hee, Yan Yan, Kun Tang
+(Co-first author) Zhenchao Hu,**Haocan Sun**, ..., Kun Tang
 
 
 
