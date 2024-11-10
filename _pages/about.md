@@ -84,7 +84,7 @@ redirect_from:       
 - **Science Communication Under Review** My Thesis [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
     - DI am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
 
-<span class='anchor' id='on-going projects'></span>
+
 # 💡 On-Going Projects      
 
 - [Development and Validation of the Human-GAI Trust Scale](https://osf.io/mk8d9/), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
@@ -97,7 +97,6 @@ redirect_from:       
     - Dr. Emily Falk and Dr. Scholz's team found that brain regions associated with valuation, self, and social processing accurately predict the shareability of information at a population level, outperforming self-reported sharing intentions. I replicated this study in the context of Chinese-language and health news. In a pilot study (n=6), I found that brain regions associated with self-related processing accurately predicted engagement metrics (shares, comments, and likes), whereas self-reported sharing intentions were unrelated to these metrics.The formal experiment will be conducted in December with a sample size of 40 (n=40).
 
 
-<span class='anchor' id='academic conference'></span>
 # 💬 Academic Conference
 - *2024.06*, **SUN, H**., KUN, T. (2024). Effect of school-based online comprehensive sexuality education of vocational high school students: a cluster randomized controlled trial, 74th Annual ICA Conference, offline Conference, June, 2024.
 - *2022.05*, **SUN, H**. (2022). Freedom Inside the Cage-The Twisted Media Gender Imagination of Femininity in Heterosexual Patriarchy, 72st Annual ICA Conference, Online Conference, May, 2022.
@@ -106,7 +105,7 @@ redirect_from:       
 - *2021.06*, HU, Z., **SUN, H**., Liang, H (2021). Empirical Resistance to Chinese Conventional Sexual Norms: Exposure to Sexually Explicit Media, Sex Attitude, and Sex without Condoms, IAMCR 2021, Gender and Communication #GEN
 
 
-<span class='anchor' id='educations'></span>
+
 # 📚 Educations        
 - *2022.09 - 2025.06*, Beijing Normal University (BNU), Beijing, China
     - Major, Communication, Faculty of Journalism and Communication
@@ -118,14 +117,25 @@ redirect_from:       
     - During my undergraduate years, I studied journalism and received four years of training in text and image editing. I learned how to use journalism to promote social progress. However, rather than standing in opposition to the government to supervise, I am more inclined to conduct practical research and health interventions that can directly contribute to policy-making. Therefore, I am committed to becoming a health communication scholar.
 
 
-<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Merit Student (10%), Outstanding Academic Talent Scholarship (1%), First Prize Scholarship (30%) BNU
+- *2023* First Prize Scholarship (30%), Academic Innovation Award (5%), BNU   
+- *2022* New Student Merit Scholarship (30%), BNU     
 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2021 Best Academic Talent Award (0.1%), CUC 
+- 2021 Special Talents Scholarship Recipient (5%), CUC
+-	2019/2020 Third Prize Recipient (5%), CUC
 
 
-
-<span class='anchor' id='internships'></span>
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.9 - Present* University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab  |  Research Assistant  |  Serve under Professor Mike Zhengyu Yao 
+    - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
+- *2024.4 - Present* Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning  | Research Assistant  |  Serve under Professor Shaozheng Qin
+    - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
+- *2022.9 - Present* Beijing Normal University Cognitive Neuroscience and Communication Lab  |  Research Assistant  |  Serve under Professor Guoming Yu 
+    - Current Projects: Neural signals predict information sharing across cultures
+- *2021.9 - 2024.7* Tsinghua University Vanke School of Public Health  |  Research Assistant  |  Serve under Professor Kun Tang
+    - Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.
+		Implementation science of Early Essential Newborn Care.
+		Infodemiology of HIV/AIDS in China
+
