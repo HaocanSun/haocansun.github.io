@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: ""
+title: "👋 Hello there, I am Haocan!"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
+redirect_from:       
+  - /about/  
   - /about.html
 ---
 
