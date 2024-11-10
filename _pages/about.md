@@ -128,6 +128,64 @@ redirect_from:       
 
 
 # 💻 Internships
+
+<table>
+  <tr>
+    <td>*2022.9 - Present*</td>
+    <td>University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab</td>
+    <td>Research Assistant | Serve under Professor Mike Zhengyu Yao</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance</td>
+  </tr>
+</table>
+
+<hr class="divider">
+
+<table>
+  <tr>
+    <td>*2024.4 - Present*</td>
+    <td>Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning</td>
+    <td>Research Assistant | Serve under Professor Shaozheng Qin</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms</td>
+  </tr>
+</table>
+
+<hr class="divider">
+
+<table>
+  <tr>
+    <td>*2022.9 - Present*</td>
+    <td>Beijing Normal University Cognitive Neuroscience and Communication Lab</td>
+    <td>Research Assistant | Serve under Professor Guoming Yu</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Current Projects: Neural signals predict information sharing across cultures</td>
+  </tr>
+</table>
+
+<hr class="divider">
+
+<table>
+  <tr>
+    <td>*2021.9 - 2024.7*</td>
+    <td>Tsinghua University Vanke School of Public Health</td>
+    <td>Research Assistant | Serve under Professor Kun Tang</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Implementation science of Early Essential Newborn Care.</td>
+  </tr>
+  <tr>
+    <td colspan="3">- Infodemiology of HIV/AIDS in China.</td>
+  </tr>
+</table>
+
+
 - *2022.9 - Present* University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab  |  Research Assistant  |  Serve under Professor Mike Zhengyu Yao 
     - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
 
