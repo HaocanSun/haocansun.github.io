@@ -34,11 +34,24 @@ My academic background lies at the intersection of communication studies, public
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
+</div>  
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gender Stereotypes and Composition in the Chinese Film Industry: A Study of the Top 15 Grossing Films](https://www.tandfonline.com/eprint/6ZJQZEXCEP9FMUFT6EGZ/full?target=10.1080/08838151.2023.2298276#abstract)
+
+**Haocan Sun**, Jinghong Xu
+
+
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Women are portrayed through family-oriented lenses, and an Iron Lady image has emerged, perpetuating shallow perceptions of femininity and maintaining male power. Furthermore, female actors composed only one-fifth of all actors, and there were no female cinematographers or editors. 
+</div>
+</div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
