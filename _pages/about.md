@@ -129,44 +129,20 @@ redirect_from:       
 
 # 💻 Internships
 
-<div class="internship-item">
-  - *2022.9 - Present* University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab  |  Research Assistant  |  Serve under Professor Mike Zhengyu Yao 
-    - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
-</div>
-
-<hr class="divider">
-
-<div class="internship-item">
-  - *2024.4 - Present* Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning  | Research Assistant  |  Serve under Professor Shaozheng Qin
-    - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
-</div>
-
-<hr class="divider">
-
-<div class="internship-item">
-  - *2022.9 - Present* Beijing Normal University Cognitive Neuroscience and Communication Lab  |  Research Assistant  |  Serve under Professor Guoming Yu 
-    - Current Projects: Neural signals predict information sharing across cultures
-</div>
-
-<hr class="divider">
-
-<div class="internship-item">
-  - *2021.9 - 2024.7* Tsinghua University Vanke School of Public Health  |  Research Assistant  |  Serve under Professor Kun Tang
-    - Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.
-    - Implementation science of Early Essential Newborn Care.
-    - Infodemiology of HIV/AIDS in China
-</div>
-
-- *2022.9 - Present* University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab  |  Research Assistant  |  Serve under Professor Mike Zhengyu Yao 
+- *2022.9 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
+    - Serve under Professor Mike Zhengyu Yao
     - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
 
-- *2024.4 - Present* Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning  | Research Assistant  |  Serve under Professor Shaozheng Qin
+- *2024.4 - Present* Research Assistant  |  Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning
+    - Serve under Professor Shaozheng Qin
     - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
 
-- *2022.9 - Present* Beijing Normal University Cognitive Neuroscience and Communication Lab  |  Research Assistant  |  Serve under Professor Guoming Yu 
+- *2022.9 - Present* Research Assistant  |  Beijing Normal University Cognitive Neuroscience and Communication Lab
+    - Serve under Professor Guoming Yu
     - Current Projects: Neural signals predict information sharing across cultures
 
-- *2021.9 - 2024.7* Tsinghua University Vanke School of Public Health  |  Research Assistant  |  Serve under Professor Kun Tang
+- *2021.9 - 2024.7* Research Assistant  |  Tsinghua University Vanke School of Public Health
+    - Serve under Professor Kun Tang
     - Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.
     - Implementation science of Early Essential Newborn Care.
     - Infodemiology of HIV/AIDS in China
