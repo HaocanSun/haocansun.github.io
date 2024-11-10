@@ -34,7 +34,7 @@ My academic background lies at the intersection of communication studies, public
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
 </div>
 </div>
@@ -49,7 +49,7 @@ My academic background lies at the intersection of communication studies, public
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Women are portrayed through family-oriented lenses, and an Iron Lady image has emerged, perpetuating shallow perceptions of femininity and maintaining male power. Furthermore, female actors composed only one-fifth of all actors, and there were no female cinematographers or editors. 
 </div>
 </div>
@@ -64,20 +64,23 @@ My academic background lies at the intersection of communication studies, public
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
 </div>
 </div>
 
 
+# 💡 On-Going Projects
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Development and Validation of the Human-GAI Trust Scale](https://osf.io/mk8d9/), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
+- Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 📖 Educations    
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
