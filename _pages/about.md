@@ -69,11 +69,32 @@ My academic background lies at the intersection of communication studies, public
 </div>
 </div>
 
+# 📖 Under review
 
-# 💡 On-Going Projects
+- **The Journal of Sex Research Under Review R2** [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Feasibility%20and%20impact%20of%20school-based%20online%20comprehensive%20sexuality%20education%20on%20Vocational%20High%20School%20Students%3A%20a%20cluster-randomized%20controlled%20trial%20%20.pdf), **Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
+    - This is an article I really like, though the review process seems to be challenging. I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators.
+
+
+- **Health Communication Under Review R3** [How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf), **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
+    - This article analyzes 48,437 posts from the annual AIDS Week (a nationwide AIDS health campaign) between 2018 and 2021. Using topic modeling, it examines the topics people discussed and applies CDA to explore the underlying power dynamics.
+
+- **Science Communication Under Review** My Thesis [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
+    - DI am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
+
+
+# 💡 On-Going Projects      
 
 - [Development and Validation of the Human-GAI Trust Scale](https://osf.io/mk8d9/), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
-- Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States. 
+    - Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States.
+
+
+
+- [Development and Validation of the GAI Problematic Use Scale](https://osf.io/mk8d9/), **Haocan Sun**, Di Wu, Weizi Liu, Guoming Yu, Mike Yao
+    - Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States.
+
+- 🌟 My Thesis [Neural signals predict information sharing across cultures](https://osf.io/37kba/), **Haocan Sun**, Guoming Yu
+    - Dr. Emily Falk and Dr. Scholz's team found that brain regions associated with valuation, self, and social processing accurately predict the shareability of information at a population level, outperforming self-reported sharing intentions. I replicated this study in the context of Chinese-language and health news. In a pilot study (n=6), I found that brain regions associated with self-related processing accurately predicted engagement metrics (shares, comments, and likes), whereas self-reported sharing intentions were unrelated to these metrics.The formal experiment will be conducted in December with a sample size of 40 (n=40).
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
