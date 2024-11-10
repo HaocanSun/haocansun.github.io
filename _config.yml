@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:    
   name             : "Haocan Sun"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/chrome-772*772.jpg"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
@@ -38,18 +38,18 @@ author:    
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
+  github           : "HaocanSun"
+  google_plus      :     
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0002-7030-1197"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : 
+  orcid            : "https://orcid.org/0000-0002-7030-1197"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
