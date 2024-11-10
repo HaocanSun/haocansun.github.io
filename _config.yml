@@ -21,7 +21,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:    
+author:
   name             : "Haocan Sun"
   avatar           : "images/chrome-772*772.jpg"
   bio              : "Lorem ipsum College"
