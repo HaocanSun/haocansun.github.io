@@ -30,7 +30,9 @@ My academic background lies at the intersection of communication studies, public
 
 [Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+(Co-first author) Zhenchao Hu,**Haocan Sun**, Haixu Liang, Wenzhen Cao, Jia Yi Hee, Yan Yan & Kun Tang
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
