@@ -17,6 +17,7 @@ redirect_from:       
 
 <span class='anchor' id='about-me'></span>
 
+# 🔍 About Me    
 - 👋 Hello there, I am Haocan!
 - I am a third-year master's student at the Cognitive Neuroscience Communication Lab at Beijing Normal University, supervised by Professor Guoming Yu. My primary research focuses on human-computer interaction and cognitive neuroscience communication. Since 2019, I have also collaborated with Professor Kun Tang at Tsinghua University on projects related to adolescent health and well-being, as well as sexual and reproductive health and rights (SRHR). In the lab, I am mainly responsible for data analysis and have independently led multiple projects. In 2022, I earned my degree in Arts from the Communication University of China in TV Editing and Directing.
 
@@ -70,7 +71,7 @@ redirect_from:       
 </div>
 </div>
 
-# 📖 Under review
+# 📖 Under Review
 
 - **The Journal of Sex Research Under Review R2** [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Feasibility%20and%20impact%20of%20school-based%20online%20comprehensive%20sexuality%20education%20on%20Vocational%20High%20School%20Students%3A%20a%20cluster-randomized%20controlled%20trial%20%20.pdf), **Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
     - This is an article I really like, though the review process seems to be challenging. I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators.
@@ -96,15 +97,24 @@ redirect_from:       
 - 🌟 My Thesis [Neural signals predict information sharing across cultures](https://osf.io/37kba/), **Haocan Sun**, Guoming Yu
     - Dr. Emily Falk and Dr. Scholz's team found that brain regions associated with valuation, self, and social processing accurately predict the shareability of information at a population level, outperforming self-reported sharing intentions. I replicated this study in the context of Chinese-language and health news. In a pilot study (n=6), I found that brain regions associated with self-related processing accurately predicted engagement metrics (shares, comments, and likes), whereas self-reported sharing intentions were unrelated to these metrics.The formal experiment will be conducted in December with a sample size of 40 (n=40).
 
+# 📚 Educations    
+- *2022.09 - 2025.06*, Beijing Normal University (BNU), Beijing, China
+    - Major, Communication, Faculty of Journalism and Communication
+    - Minor, Psychology, Faculty of Psychology
+    - During my master's studies, the theories and methods of communication were insufficient to meet my aspirations in health communication. Therefore, neuroscience and psychology expanded my toolkit, while the public health perspective drove me to address real-world problems and draw impactful conclusions.
+
+- *2018.09 - 2022.06*, Communication University of China (CUC), Beijing, China
+    - Major, TV Editing and Directing, Faculty of Journalism and Communication
+    - During my undergraduate years, I studied journalism and received four years of training in text and image editing. I learned how to use journalism to promote social progress. However, rather than standing in opposition to the government to supervise, I am more inclined to conduct practical research and health interventions that can directly contribute to policy-making. Therefore, I am committed to becoming a health communication scholar.
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations    
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
