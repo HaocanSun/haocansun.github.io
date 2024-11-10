@@ -122,9 +122,9 @@ redirect_from:       
 - *2023* First Prize Scholarship (30%), Academic Innovation Award (5%), BNU   
 - *2022* New Student Merit Scholarship (30%), BNU     
 
-- 2021 Best Academic Talent Award (0.1%), CUC 
-- 2021 Special Talents Scholarship Recipient (5%), CUC
--	2019/2020 Third Prize Recipient (5%), CUC
+- *2021* Best Academic Talent Award (0.1%), CUC 
+- *2021* Special Talents Scholarship Recipient (5%), CUC
+-	*2019/2020* Third Prize Recipient (30%), CUC  
 
 
 # 💻 Internships
