@@ -21,18 +21,18 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
-  name             : "Lorem ipsum"
+author:    
+  name             : "Haocan Sun"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tr33OgQAAAAJ&hl=zh-CN&oi=ao"
+  email            : "haocansun@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        :  
   codepen          :
   dribbble         :
   flickr           :
