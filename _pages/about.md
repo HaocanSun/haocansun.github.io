@@ -25,18 +25,18 @@ My academic background lies at the intersection of communication studies, public
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2023</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
+[Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/10.1111/add.1669)
 
-(Co-first author) Zhenchao Hu,**Haocan Sun**, ..., Kun Tang
+**Haocan Sun**, Kun Tang
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
-</div>  
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
+</div>
 </div>
 
 
@@ -55,18 +55,19 @@ My academic background lies at the intersection of communication studies, public
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2023</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/10.1111/add.1669)
+[Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
 
-**Haocan Sun**, Kun Tang
+(Co-first author) Zhenchao Hu,**Haocan Sun**, ..., Kun Tang
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
-</div>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
+</div>  
 </div>
 
 
