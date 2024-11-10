@@ -56,7 +56,7 @@ My academic background lies at the intersection of communication studies, public
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2023</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2023</div><img src='images/pornography paper.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
