@@ -7,10 +7,10 @@ main:
     url: "/#-publications"
 
   - title: "Under Review"
-    url: "/#-Under Review"
+    url: "/#-under review"
     
   - title: "On-Going Projects"
-    url: "/#-On-Going Projects"
+    url: "/#-on-going projects"
     
   - title: "Educations"
     url: "/#-educations"
