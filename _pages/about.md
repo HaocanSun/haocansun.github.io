@@ -40,7 +40,7 @@ My academic background lies at the intersection of communication studies, public
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Broadcasting & Electronic Media 2024</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Broadcasting & Electronic Media 2024</div><img src='images/film paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gender Stereotypes and Composition in the Chinese Film Industry: A Study of the Top 15 Grossing Films](https://www.tandfonline.com/eprint/6ZJQZEXCEP9FMUFT6EGZ/full?target=10.1080/08838151.2023.2298276#abstract)
@@ -55,17 +55,17 @@ My academic background lies at the intersection of communication studies, public
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Broadcasting & Electronic Media 2024</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gender Stereotypes and Composition in the Chinese Film Industry: A Study of the Top 15 Grossing Films](https://www.tandfonline.com/eprint/6ZJQZEXCEP9FMUFT6EGZ/full?target=10.1080/08838151.2023.2298276#abstract)
+[Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/10.1111/add.1669)
 
-**Haocan Sun**, Jinghong Xu
+**Haocan Sun**, Kun Tang
 
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Women are portrayed through family-oriented lenses, and an Iron Lady image has emerged, perpetuating shallow perceptions of femininity and maintaining male power. Furthermore, female actors composed only one-fifth of all actors, and there were no female cinematographers or editors. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
 </div>
 </div>
 
