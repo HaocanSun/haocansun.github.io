@@ -39,6 +39,7 @@ My academic background lies at the intersection of communication studies, public
 </div>  
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Broadcasting & Electronic Media 2024</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
