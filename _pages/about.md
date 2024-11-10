@@ -89,10 +89,8 @@ redirect_from:       
 - [Development and Validation of the Human-GAI Trust Scale](https://osf.io/mk8d9/), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
     - Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States.
 
-
-
 - [Development and Validation of the GAI Problematic Use Scale](https://osf.io/mk8d9/), **Haocan Sun**, Di Wu, Weizi Liu, Guoming Yu, Mike Yao
-    - Existing scales have not kept pace with the transformations introduced by GAI, lacking a validated reflective scale and tests of cross-cultural invariance. This study introduces the interpersonal paradigm (human-to-human) into human-AI interaction, develops and validates a GAI trust scale, and examines its applicability across different cultural contexts in China and the United States.
+    - Whether in news reports or personal experiences, Gen AI has already become deeply embedded in our lives, leading to functional issues and concerns about its use. Given the emotional support they provide and the potential to promote self-disclosure, people may develop emotional dependence on them. Therefore, drawing an analogy to internet gaming disorder in the DSM-5, we developed a Gen AI addiction scale.
 
 - 🌟 My Thesis [Neural signals predict information sharing across cultures](https://osf.io/37kba/), **Haocan Sun**, Guoming Yu
     - Dr. Emily Falk and Dr. Scholz's team found that brain regions associated with valuation, self, and social processing accurately predict the shareability of information at a population level, outperforming self-reported sharing intentions. I replicated this study in the context of Chinese-language and health news. In a pilot study (n=6), I found that brain regions associated with self-related processing accurately predicted engagement metrics (shares, comments, and likes), whereas self-reported sharing intentions were unrelated to these metrics.The formal experiment will be conducted in December with a sample size of 40 (n=40).
