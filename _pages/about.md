@@ -130,12 +130,15 @@ redirect_from:       
 # 💻 Internships
 - *2022.9 - Present* University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab  |  Research Assistant  |  Serve under Professor Mike Zhengyu Yao 
     - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
+
 - *2024.4 - Present* Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning  | Research Assistant  |  Serve under Professor Shaozheng Qin
     - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
+
 - *2022.9 - Present* Beijing Normal University Cognitive Neuroscience and Communication Lab  |  Research Assistant  |  Serve under Professor Guoming Yu 
     - Current Projects: Neural signals predict information sharing across cultures
+
 - *2021.9 - 2024.7* Tsinghua University Vanke School of Public Health  |  Research Assistant  |  Serve under Professor Kun Tang
     - Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.
-		Implementation science of Early Essential Newborn Care.
-		Infodemiology of HIV/AIDS in China
+    - Implementation science of Early Essential Newborn Care.
+    - Infodemiology of HIV/AIDS in China
 
