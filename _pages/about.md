@@ -81,8 +81,8 @@ redirect_from:       
 - **Health Communication Under Review R3** [How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf), **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
     - This article analyzes 48,437 posts from the annual AIDS Week (a nationwide AIDS health campaign) between 2018 and 2021. Using topic modeling, it examines the topics people discussed and applies CDA to explore the underlying power dynamics.
 
-- **Science Communication Under Review** My Thesis [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
-    - DI am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
+- **Science Communication Under Review** [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
+    - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
 
 
 # 💡 On-Going Projects      
@@ -128,22 +128,33 @@ redirect_from:       
 
 
 # 💻 Internships
+**Academic**   
 
-- *2022.9 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
+- *2022.09 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
     - Serve under Professor Mike Zhengyu Yao
     - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
 
-- *2024.4 - Present* Research Assistant  |  Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning
+- *2024.04 - Present* Research Assistant  |  Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning
     - Serve under Professor Shaozheng Qin
     - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
 
-- *2022.9 - Present* Research Assistant  |  Beijing Normal University Cognitive Neuroscience and Communication Lab
+- *2022.09 - Present* Research Assistant  |  Beijing Normal University Cognitive Neuroscience and Communication Lab
     - Serve under Professor Guoming Yu
     - Current Projects: Neural signals predict information sharing across cultures
 
-- *2021.9 - 2024.7* Research Assistant  |  Tsinghua University Vanke School of Public Health
+- *2021.09 - 2024.07* Research Assistant  |  Tsinghua University Vanke School of Public Health
     - Serve under Professor Kun Tang
     - Projects: Longitudinal Analysis with LGM: Randomized Controlled Study of China's Sex Education.
     - Implementation science of Early Essential Newborn Care.
     - Infodemiology of HIV/AIDS in China
+
+**Other**
+- *2022.03 - 2022.08* Commercial Product Operations  |  ByteDance *Douyin*
+    - I, along with my mentor, managed the full-chain operation of Douyin brand advertising for FeedsLive, VideoLive, and TopLive, representing about 25% of the platform's ad expenditure. I coordinated the 618 Shopping Festival and 'Small Store Leap' campaign, collaborating with project managers, designers, and technical teams. These live broadcasts generated nearly 10 million yuan in expenditure and over 50 million yuan in bi-monthly revenue.
+
+- *2021.09 - 2022.03* Brand Management  |  Sistalk
+    - Sistalk is a tech company specializing in women’s health and lifestyle, offering sex toys and software focused on sexual and reproductive health. I coordinated brand promotions for major sales events, managed private domain operations, and strategized app and WeChat marketing. I achieved a 40%+ conversion rate, generated over 600 leads, built a user base of 2,500, and consistently ranked first in category searches on shopping platforms.
+
+- *2022.03 - 2022.08* Project Management Intern  |  China Family Planning Association  *China Youth Network*
+    - CFPA focuses on improving reproductive health and family planning services across China. I led SRHR survey design, data collection, and analysis, and managed youth projects in the Beijing-Tianjin-Hebei region. I coordinated efforts across 50+ universities, resolved operational issues, and developed SOPs for effective project management, requiring strong organizational skills.
 
