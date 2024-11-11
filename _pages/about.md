@@ -24,7 +24,7 @@ redirect_from:       
 - My academic background lies at the intersection of communication studies, public health, psychology, and cognitive neuroscience. I believe that as media—especially AI—becomes deeply interwoven with our lives, there is a pressing need for scholars with interdisciplinary expertise to seize opportunities for groundbreaking innovation. Therefore, I am dedicated to using cross-disciplinary approaches to address real-world health issues, regardless of traditional academic boundaries. I have published 3 papers, with 3 others currently under review.  <a href='https://scholar.google.com/citations?user=tr33OgQAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/badge/Citations-9cf?style=flat&logo=Google%20Scholar">
 </a>
 
-
+<span id="publications"></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
@@ -71,7 +71,7 @@ redirect_from:       
 </div>
 </div>
 
-<span class='anchor' id='under review'></span>
+<span id="under-review"></span>
 # 📖 Under Review
 
 - **The Journal of Sex Research Under Review R2** [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Feasibility%20and%20impact%20of%20school-based%20online%20comprehensive%20sexuality%20education%20on%20Vocational%20High%20School%20Students%3A%20a%20cluster-randomized%20controlled%20trial%20%20.pdf), **Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
@@ -84,7 +84,7 @@ redirect_from:       
 - **Science Communication Under Review** [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
     - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
 
-
+<span id="on-going-projects"></span>
 # 💡 On-Going Projects      
 
 - [Development and Validation of the Human-GAI Trust Scale](https://osf.io/mk8d9/), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
