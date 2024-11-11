@@ -122,7 +122,7 @@ redirect_from:       
 
 
 # 🎖 Honors and Awards
-- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%); First Prize Scholarship (30%) BNU
+- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%); First Prize Scholarship (30%), BNU
 - *2023* First Prize Scholarship (30%); Academic Innovation Award (5%), BNU   
 - *2022* New Student Merit Scholarship (30%), BNU     
 - *2021* Best Academic Talent Award (0.1%, the highest awards in CUC, only one recipient each year; Special Talents Scholarship Recipient (5%), CUC 
