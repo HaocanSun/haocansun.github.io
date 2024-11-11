@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d752b9c5-1989-441f-abcb-a5f51ad92022)---
 permalink: /
 title: "👋 Hello there, I am Haocan!"
 excerpt: ""
@@ -81,8 +81,12 @@ redirect_from:       
 - **Health Communication Under Review R3** [How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf), **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
     - This article analyzes 48,437 posts from the annual AIDS Week (a nationwide AIDS health campaign) between 2018 and 2021. Using topic modeling, it examines the topics people discussed and applies CDA to explore the underlying power dynamics.
 
-- **Science Communication Under Review** [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong xu
+- **Science Communication Under Review** [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong Xu
     - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
+
+- **BMC Public Health Under Review** [Stakeholder Perceptions of Early Essential Newborn Care Training in Western China: A Qualitative Study](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Stakeholder%20Perceptions%20of%20Early%20Essential%20Newborn%20Care%20Training%20in%20Western%20China.pdf), (Co-first author) Hanxiyue Zhanga, **Haocan Sun**, ..., Tao Xu, Kun Tang
+    - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
+    
 
 <span id="on-going-projects"></span>
 # 💡 On-Going Projects      
