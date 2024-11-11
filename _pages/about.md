@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d752b9c5-1989-441f-abcb-a5f51ad92022)---
+---
 permalink: /
 title: "👋 Hello there, I am Haocan!"
 excerpt: ""
