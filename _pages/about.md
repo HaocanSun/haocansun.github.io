@@ -85,7 +85,7 @@ redirect_from:       
     - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
 
 - **BMC Public Health Under Review** [Stakeholder Perceptions of Early Essential Newborn Care Training in Western China: A Qualitative Study](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Stakeholder%20Perceptions%20of%20Early%20Essential%20Newborn%20Care%20Training%20in%20Western%20China.pdf), (Co-first author) Hanxiyue Zhanga, **Haocan Sun**, ..., Tao Xu, Kun Tang
-    - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
+    - In this study, we collected data through interviews and focus groups, engaging individuals involved in Early Essential Newborn Care Training, from frontline staff and caregivers to provincial leaders and hospital directors. Our findings highlight both the benefits and the challenges faced throughout the training process.
     
 
 <span id="on-going-projects"></span>
