@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Under Review"
-    url: "/#-under review"
+    url: "/#under-review"
     
   - title: "On-Going Projects"
-    url: "/#-on-going projects"
+    url: "/#on-going-projects"
     
   - title: "Academic Conference"
     url: "/#-academic-conference"
