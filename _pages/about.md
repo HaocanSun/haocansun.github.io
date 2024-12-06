@@ -32,11 +32,11 @@ redirect_from:       
 
 - **Health Communication Under in press** [How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf)
 
-**Haocan Sun**, Kun Tang
+(Co-first author) **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
 
 
 
-[**Conclusion**]
+**Conclusion**
 -This study used Latent Dirichlet Allocation (LDA) topic modeling and sentiment analysis to investigate the distribution of themes and people’s reactions during AIDS Weeks. From 2018 to 2021, 48,437 posts were analyzed, revealing 21 topics coded and categorized into six main themes: Response Methods, Specific Topics, Promotion, Virus Status, Specific Groups, and Positive Feedback. Additionally, Critical Discourse Analysis (CDA) was employed to further examine the social structures, cultural contexts, and power dynamics underlying the discourse.
 </div>
 </div>
