@@ -27,7 +27,7 @@ redirect_from:       
 <span id="publications"></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2024</div><img src='images/AIDS paper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2024</div><img src='images/AIDS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Health Communication Under in press** [How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf)
