@@ -30,7 +30,7 @@ redirect_from:       
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2024</div><img src='images/AIDS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How we discuss AIDS in China: mapping the AIDS Week health campaign on social media]([https://github.com/HaocanSun/Wellcome-my-papers/blob/main/How%20we%20discuss%20AIDS%20in%20China%20mapping%20the%20AIDS%20Week%20health%20campaign%20on%20social%20media.pdf](https://www.tandfonline.com/eprint/2KIBZPVUQHWWN3CKBVG8/full?target=10.1080/10410236.2024.2440538))
+[How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://www.tandfonline.com/eprint/2KIBZPVUQHWWN3CKBVG8/full?target=10.1080/10410236.2024.2440538)
 
 (Co-first author) **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
 
@@ -44,7 +44,7 @@ redirect_from:       
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/10.1111/add.1669)
+[Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.16699)
 
 **Haocan Sun**, Kun Tang
 
