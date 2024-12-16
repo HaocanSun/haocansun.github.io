@@ -135,7 +135,7 @@ redirect_from:       
 
 
 # 🎖 Honors and Awards
-- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%); First Prize Scholarship (30%), BNU
+- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%, the highest awards in BNU); First Prize Scholarship (30%), BNU
 - *2023* First Prize Scholarship (30%); Academic Innovation Award (5%), BNU   
 - *2022* New Student Merit Scholarship (30%), BNU     
 - *2021* Best Academic Talent Award (0.1%, the highest awards in CUC, only one recipient each year; Special Talents Scholarship Recipient (5%), CUC 
@@ -146,13 +146,9 @@ redirect_from:       
 # 💻 Internships
 **Academic**   
 
-- *2022.09 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
+- *2024.09 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
     - Serve under Professor Mike Zhengyu Yao
     - Current Projects: GAI Trust Scale and Problematic Use Scale Development and Cross-National Measurement Invariance
-
-- *2024.04 - Present* Research Assistant  |  Beijing Normal University State Key Laboratory of Cognitive Neuroscience and Learning
-    - Serve under Professor Shaozheng Qin
-    - Current Projects: Child–parent neural synchrony and children’s psychopathological symptoms
 
 - *2022.09 - Present* Research Assistant  |  Beijing Normal University Cognitive Neuroscience and Communication Lab
     - Serve under Professor Guoming Yu
