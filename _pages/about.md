@@ -147,7 +147,7 @@ redirect_from:       
 
 
 # 🎖 Honors and Awards
-- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%, the highest awards in BNU); First Prize Scholarship (30%), BNU
+- *2024* Merit Student (10%); Outstanding Academic Talent Scholarship (1%); First Prize Scholarship (30%), BNU
 - *2023* First Prize Scholarship (30%); Academic Innovation Award (5%), BNU   
 - *2022* New Student Merit Scholarship (30%), BNU     
 - *2021* Best Academic Talent Award (0.1%, the highest awards in CUC, only one recipient each year; Special Talents Scholarship Recipient (5%), CUC 
@@ -175,9 +175,6 @@ redirect_from:       
 **Other**
 - *2022.03 - 2022.08* Commercial Product Operations  |  ByteDance *Douyin*
     - I, along with my mentor, managed the full-chain operation of Douyin brand advertising for FeedsLive, VideoLive, and TopLive, representing about 25% of the platform's ad expenditure. I coordinated the 618 Shopping Festival and 'Small Store Leap' campaign, collaborating with project managers, designers, and technical teams. These live broadcasts generated nearly 10 million yuan in expenditure and over 50 million yuan in bi-monthly revenue.
-
-- *2021.09 - 2022.03* Brand Management  |  Sistalk
-    - Sistalk is a tech company specializing in women’s health and lifestyle, offering sex toys and software focused on sexual and reproductive health. I coordinated brand promotions for major sales events, managed private domain operations, and strategized app and WeChat marketing. I achieved a 40%+ conversion rate, generated over 600 leads, built a user base of 2,500, and consistently ranked first in category searches on shopping platforms.
 
 - *2022.03 - 2022.08* Project Management Intern  |  China Family Planning Association  *China Youth Network*
     - CFPA focuses on improving reproductive health and family planning services across China. I led SRHR survey design, data collection, and analysis, and managed youth projects in the Beijing-Tianjin-Hebei region. I coordinated efforts across 50+ universities, resolved operational issues, and developed SOPs for effective project management, requiring strong organizational skills.
