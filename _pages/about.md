@@ -27,22 +27,38 @@ redirect_from:       
 <span id="publications"></span>
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Journal of Sex Research 2025</div><img src='images/CSE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+(In press) [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/inpress.pdf)
+
+**Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
+
+
+
+**Conclusion**
+-I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators. Results suggest that more sustained CSE is necessary for vocational high school students in China. Online CSE presents a feasible solution to enhance sexuality knowledge and attitude and bridge the gap in developmental and sexuality education levels. However, behaviors and well-being outcomes did not yield consistent positive results.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2024</div><img src='images/AIDS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[How we discuss AIDS in China: mapping the AIDS Week health campaign on social media](https://www.tandfonline.com/eprint/2KIBZPVUQHWWN3CKBVG8/full?target=10.1080/10410236.2024.2440538)
+[Mapping the AIDS Week Health Campaign on Social Media in China: A Mixed-Method Study](https://www.tandfonline.com/eprint/2KIBZPVUQHWWN3CKBVG8/full?target=10.1080/10410236.2024.2440538)
 
 (Co-first author) **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
 
 
 
-**Conclusion**
+[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -This study used Latent Dirichlet Allocation (LDA) topic modeling and sentiment analysis to investigate the distribution of themes and people’s reactions during AIDS Weeks. From 2018 to 2021, 48,437 posts were analyzed, revealing 21 topics coded and categorized into six main themes: Response Methods, Specific Topics, Promotion, Virus Status, Specific Groups, and Positive Feedback. Additionally, Critical Discourse Analysis (CDA) was employed to further examine the social structures, cultural contexts, and power dynamics underlying the discourse.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Addiction 2024</div><img src='images/addiction paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Psychometric evaluation and measurement invariance of the problematic smartphone use scale among college students: A national survey of 130,145 participants](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.16699)
 
@@ -87,10 +103,6 @@ redirect_from:       
 
 <span id="under-review"></span>
 # 📖 Under Review
-
-- **The Journal of Sex Research Under Review R2** [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Feasibility%20and%20impact%20of%20school-based%20online%20comprehensive%20sexuality%20education%20on%20Vocational%20High%20School%20Students%3A%20a%20cluster-randomized%20controlled%20trial%20%20.pdf), **Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
-    - This is an article I really like, though the review process seems to be challenging. I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators.
-
 
 - **Science Communication Under Review** [Effect of Emphasizing the Climate Change Background to Cultivate Supporters and Information Engagers of Genetically Modified Crops](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/Effect%20of%20Emphasizing%20the%20Climate%20Change%20Background%20to%20Cultivate%20Supporters%20and%20Information%20Engagers%20of%20Genetically%20Modified%20Crops.pdf), Dechuan Liu, **Haocan Sun**, Jinghong Xu
     - I am responsible for the methodology section of a paper, which examines how background framing strategies in news reports (specifically, the positive impact of genetically modified crops on climate) influence people's attitudes and behaviors toward GMOs. The study employs an online experiment and uses Latent Moderated Structural Equations (LMS) to analyze the data.
