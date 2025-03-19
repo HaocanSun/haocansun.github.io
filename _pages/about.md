@@ -30,7 +30,7 @@ redirect_from:       
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Journal of Sex Research 2025</div><img src='images/CSE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-(In press) [Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://github.com/HaocanSun/Wellcome-my-papers/blob/main/inpress.pdf)
+[Feasibility and Impact of School-Based Online Comprehensive Sexuality Education in China: A Cluster-Randomized Controlled Trial](https://www.tandfonline.com/eprint/JWEBRXM4CQQ2HMPCIVFC/full?target=10.1080/00224499.2025.2470844)
 
 **Haocan Sun**, Shuangyu Zhao, Hanxiyue Zhang, Kun Tang
 
