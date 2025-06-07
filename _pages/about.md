@@ -90,7 +90,7 @@ redirect_from:       
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Communication 2023</div><img src='images/pornography paper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/eprint/NT6R3E9Y8SR7PXZWMGMQ/full?target=10.1080/08838151.2023.2298276)
+[Pornography consumption, sexual attitude, and condomless sex in China](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2156738#d1e704)
 
 (Co-first author) Zhenchao Hu,**Haocan Sun**, ..., Kun Tang
 
