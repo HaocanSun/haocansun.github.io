@@ -26,7 +26,7 @@ redirect_from:       
 </a>
 
 > *How to pronounce my name:  
-> Hào, pronounced like “How” (as in how are you), with a falling tone.  
+> Háo — sounds like “how,” with a rising tone. 
 > Càn, pronounced like “Tsahn” (starts with a soft ts sound, similar to the end of cats).  
 > Sūn, pronounced like “Soon” (rhymes with moon).*
 
