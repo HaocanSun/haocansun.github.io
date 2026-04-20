@@ -1,10 +1,7 @@
 ---
 permalink: /
 title: "👋 Hello there, I am Haocan!"
-excerpt: "How to pronounce my name:
-Hào, pronounced like “How” (as in how are you), with a falling tone.
-Càn, pronounced like “Tsahn” (starts with a soft ts sound, similar to the end of cats).
-Sūn, pronounced like “Soon” (rhymes with moon)."
+excerpt: ""
 author_profile: true
 redirect_from:       
   - /about/  
@@ -27,6 +24,11 @@ redirect_from:       
 
 - I hope to become an interdisciplinary scholar who cares about real-world problems. Considering targeted information delivery, multi-turn conversations, and the development of relational affective trust, AI offers both opportunities and challenges. I aim to use cross-disciplinary approaches to address real-world health issues: How AI-mediated environments reshape health persuasion.  <a href='https://scholar.google.com/citations?user=tr33OgQAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/badge/Citations-9cf?style=flat&logo=Google%20Scholar">
 </a>
+
+> *How to pronounce my name:  
+> Hào, pronounced like “How” (as in how are you), with a falling tone.  
+> Càn, pronounced like “Tsahn” (starts with a soft ts sound, similar to the end of cats).  
+> Sūn, pronounced like “Soon” (rhymes with moon).*
 
 <span id="publications"></span>
 # 📝 Publications 
