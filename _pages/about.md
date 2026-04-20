@@ -1,7 +1,10 @@
 ---
 permalink: /
 title: "👋 Hello there, I am Haocan!"
-excerpt: ""
+excerpt: "How to pronounce my name:
+Hào, pronounced like “How” (as in how are you), with a falling tone.
+Càn, pronounced like “Tsahn” (starts with a soft ts sound, similar to the end of cats).
+Sūn, pronounced like “Soon” (rhymes with moon)."
 author_profile: true
 redirect_from:       
   - /about/  
