@@ -71,8 +71,7 @@ redirect_from:       
 (Co-first author) **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
 
 
-
-[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Conclusion**
 -This study used Latent Dirichlet Allocation (LDA) topic modeling and sentiment analysis to investigate the distribution of themes and people’s reactions during AIDS Weeks. From 2018 to 2021, 48,437 posts were analyzed, revealing 21 topics coded and categorized into six main themes: Response Methods, Specific Topics, Promotion, Virus Status, Specific Groups, and Positive Feedback. Additionally, Critical Discourse Analysis (CDA) was employed to further examine the social structures, cultural contexts, and power dynamics underlying the discourse.
 </div>
 </div>
@@ -87,7 +86,7 @@ redirect_from:       
 
 
 
-[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Conclusion**
 - The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
 </div>
 </div>
@@ -102,7 +101,7 @@ redirect_from:       
 
 
 
-[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Conclusion**
 - Women are portrayed through family-oriented lenses, and an Iron Lady image has emerged, perpetuating shallow perceptions of femininity and maintaining male power. Furthermore, female actors composed only one-fifth of all actors, and there were no female cinematographers or editors. 
 </div>
 </div>
@@ -117,7 +116,7 @@ redirect_from:       
 
 
 
-[**Conclusion**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=tr33OgQAAAAJ&citation_for_view=tr33OgQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Conclusion**
 - A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
 </div>
 </div>
@@ -151,7 +150,6 @@ redirect_from:       
 # 📚 Educations        
 - *2022.09 - 2025.06*, Beijing Normal University (BNU), Beijing, China
     - Major, Communication, Faculty of Journalism and Communication
-    - Minor, Psychology, Faculty of Psychology
     - During my master's studies, the theories and methods of communication were insufficient to meet my aspirations in health communication. Therefore, neuroscience and psychology expanded my toolkit, while the public health perspective drove me to address real-world problems and draw impactful conclusions.
 
 - *2018.09 - 2022.06*, Communication University of China (CUC), Beijing, China
