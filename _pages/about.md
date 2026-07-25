@@ -19,16 +19,16 @@ redirect_from:       
 
 # 🔍 About Me    
 - 👋 Hello there, I am Haocan!
-- I am an incoming PhD student at the Stan Richards School of Advertising & Public Relations, Moody College of Communication, University of Texas at Austin. In 2025, I graduated from Beijing Normal University, where I was supervised by Professor Guoming Yu. My primary research focuses on Human-AI interaction, persuasion, media psychology, and health communication. 
-- I have  collaborated with Dr. Mike Yao at the University of Illinois Urbana–Champaign, in the Institute of Communications Research. Our work examines the theoretical definition of trust in human–AI interaction, the conceptualization and measurement of problematic AI use, and the dynamic linguistic processes that emerge in conversations between humans and conversational agents.
+- I am an incoming PhD student at the Stan Richards School of Advertising & Public Relations, Moody College of Communication, University of Texas at Austin. Powered by curiosity, sustained by just enough vanity, and driven by the pursuit of meaningful research. Occasionally getting lost while traveling across disciplines. Love cats, good food, and my family.
 
-- I hope to become an interdisciplinary scholar who cares about real-world problems. Considering targeted information delivery, multi-turn conversations, and the development of relational affective trust, AI offers both opportunities and challenges. I aim to use cross-disciplinary approaches to address real-world health issues: How AI-mediated environments reshape health persuasion.  <a href='https://scholar.google.com/citations?user=tr33OgQAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/badge/Citations-9cf?style=flat&logo=Google%20Scholar">
-</a>
+## 🔬 Research Agenda
 
-> *How to pronounce my name:  
-> Háo — sounds like “how,” with a rising tone. 
-> Càn, pronounced like “Tsahn” (starts with a soft ts sound, similar to the end of cats).  
-> Sūn, pronounced like “Soon” (rhymes with moon).*
+- Trace the accumulation of persuasive media effects.
+- Link individual behaviors with health campaigns.
+- Examine how persuasive mechanisms and digital health symptoms transform within AI-mediated communication (AIMC) and human–AI interaction (HAII) contexts.[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tr33OgQAAAAJ)
+
+
+> How to pronounce my name: Háo (sounds like “how”), Càn (similar to “tsahn”), Sūn (rhymes with “soon”). Or simply call me Hao.
 
 <span id="publications"></span>
 # 📝 Publications 
