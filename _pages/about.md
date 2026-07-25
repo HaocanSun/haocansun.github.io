@@ -23,8 +23,8 @@ redirect_from:       
 
 ## 🔬 Research Agenda
 
-- Trace the accumulation of persuasive media effects.
-- Link individual behaviors with health campaigns.
+- Design effective and personalized interventions and trace the accumulation of persuasive media effects.
+- Link individual behaviors with health campaigns / population-level impact.
 - Examine how persuasive mechanisms and digital health symptoms transform within AI-mediated communication (AIMC) and human–AI interaction (HAII) contexts.[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tr33OgQAAAAJ)
 
 
@@ -37,11 +37,11 @@ redirect_from:       
 
 [Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use](https://www.sciencedirect.com/science/article/abs/pii/S074756322600213X)
 
-(Co-first author) **Haocan Sun**, Di Wu, Weizi Liu, Mike Yao ,Guoming Yu
+(Co-first author) **Haocan Sun**, Di Wu, Weizi Liu, Mike Yao, Guoming Yu
 
 
-**Conclusion**
--findings indicate that PUGenAI shares features of the emotionally vulnerable subtype of IGD rather than the competence-based type. These results support using PUGenAIS-9 to identify problematic GenAI use and show the need to rethink digital addiction with an ICD (infrastructures, content, and device) model. This keeps addiction research responsive to new media while avoiding over-pathologizing.
+**Key Contribution**
+-Developed the first psychometrically validated measure of problematic GenAI use (PUGenAIS-9). Findings suggest that problematic GenAI use resembles the emotionally vulnerable subtype of IGD and support an infrastructure–device–content (IDC) perspective on digital addiction.
 
 </div>
 </div>
@@ -57,8 +57,8 @@ redirect_from:       
 
 
 
-**Conclusion**
--I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators. Results suggest that more sustained CSE is necessary for vocational high school students in China. Online CSE presents a feasible solution to enhance sexuality knowledge and attitude and bridge the gap in developmental and sexuality education levels. However, behaviors and well-being outcomes did not yield consistent positive results.
+**Key Contribution**
+-Evaluated a large-scale online comprehensive sexuality education program in China. Results support its effectiveness in improving sexuality knowledge and attitudes, while highlighting the need for sustained interventions to influence behavioral outcomes. I used a parallel process latent growth model to track the nonlinear growth trajectories of sexuality knowledge and attitudes, and a mixed effects model to assess whether sexuality education impacts behavioral indicators. 
 
 </div>
 </div>
@@ -71,8 +71,8 @@ redirect_from:       
 (Co-first author) **Haocan Sun**, Rudong Zhang, Xuan Li, Kun Tang
 
 
-**Conclusion**
--This study used Latent Dirichlet Allocation (LDA) topic modeling and sentiment analysis to investigate the distribution of themes and people’s reactions during AIDS Weeks. From 2018 to 2021, 48,437 posts were analyzed, revealing 21 topics coded and categorized into six main themes: Response Methods, Specific Topics, Promotion, Virus Status, Specific Groups, and Positive Feedback. Additionally, Critical Discourse Analysis (CDA) was employed to further examine the social structures, cultural contexts, and power dynamics underlying the discourse.
+**Key Contribution**
+-Applied LDA topic modeling, sentiment analysis, and critical discourse analysis to 48,437 social media posts, revealing six major themes in China’s AIDS Week campaign and the social dynamics underlying online health communication.
 </div>
 </div>
 
@@ -86,7 +86,7 @@ redirect_from:       
 
 
 
-**Conclusion**
+**Key Contribution**
 - The Problematic Smartphone Use Scale for College Students (PSUS-C) demonstrated good factor structure, internal consistency, construct validity, discriminant validity and criterion validity. Strict and structural invariance were demonstrated across sex, type of university and place of residence. 
 </div>
 </div>
@@ -101,8 +101,8 @@ redirect_from:       
 
 
 
-**Conclusion**
-- Women are portrayed through family-oriented lenses, and an Iron Lady image has emerged, perpetuating shallow perceptions of femininity and maintaining male power. Furthermore, female actors composed only one-fifth of all actors, and there were no female cinematographers or editors. 
+**Key Contribution**
+- Examined gender representation in China’s highest-grossing films. Findings revealed persistent gender stereotypes, substantial underrepresentation of women, and limited female participation behind the camera. 
 </div>
 </div>
 
@@ -116,8 +116,8 @@ redirect_from:       
 
 
 
-**Conclusion**
-- A higher frequency of pornography consumption is associated with an increased likelihood of having condomless sex and more positive attitudes toward premarital sex and one-night stand. 
+**Key Contribution**
+- Investigated the associations between pornography consumption, sexual attitudes, and condomless sex in China. More frequent pornography use was associated with riskier sexual behaviors and more permissive sexual attitudes.
 </div>
 </div>
 
