@@ -25,7 +25,7 @@ redirect_from:       
 
 - Design effective and personalized interventions and trace the accumulation of persuasive media effects.
 - Link individual behaviors with health campaigns / population-level impact.
-- Examine how persuasive mechanisms and digital health symptoms transform within AI-mediated communication (AIMC) and human–AI interaction (HAII) contexts.[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tr33OgQAAAAJ)
+- Examine how persuasive mechanisms and digital health symptoms transform within AI-mediated communication (AIMC) and human–AI interaction (HAII) contexts.     [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tr33OgQAAAAJ)
 
 
 > How to pronounce my name: Háo (sounds like “how”), Càn (similar to “tsahn”), Sūn (rhymes with “soon”). Or simply call me Hao.
