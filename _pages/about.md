@@ -127,50 +127,27 @@ redirect_from:       
 # 💡 On-Going Projects      
 
 - 🌟 My Thesis [Using Neural Signals to Predict Health News Sharing Volume, Individual Media Use, Health Behavior, and Well-being Trajectory](https://osf.io/3hkvx), **Haocan Sun**, Guoming Yu
-    - Building on the exploration of neural mechanisms and online information sharing by researchers such as Baek, Chan, Cosme, Doré, Falk, and Scholz, a neuroscience-based approach is gradually unraveling the complexities of the communication puzzle. This study (N = 54) links individuals’ neural activity during news reading with their future health and well-being trajectories, as well as a mass media outcome, news sharing volume. It employed a 2 × 4 between-subjects design: (2) Chinese health news on Southern Weekly vs. English health news on The New York Times; (4) simulated reading behaviors—reading the full text, private sharing, public sharing, and topic relevance judgment (control). Participants viewed 70 health news headlines and abstracts during fMRI scanning. The analysis focused on brain regions involved in personal, social, and value integration (e.g., medial/dorsolateral prefrontal cortex). One month later, participants completed ecological momentary assessments (twice daily, thirty days). A Dynamic Structural Equation Model (DSEM) was used to integrate neural data, future behavior, and mass-level sharing volume.
+    - Building on recent advances in neuroforecasting, this project investigates how neural responses to health news predict communication outcomes across multiple levels—from individual media use and health trajectories to population-level news diffusion. Participants (N = 54) completed an fMRI experiment while reading health news from The New York Times and Southern Weekly, followed by a 30-day ecological momentary assessment. By integrating neural signals, longitudinal behavioral data, and real-world sharing metrics, this work aims to bridge individual cognition with large-scale communication dynamics.
 
 
 - [Revisiting Trust in the Era of Generative AI: Factorial Structure and Latent Profiles](https://arxiv.org/abs/2510.10199), **Haocan Sun**, Weizi Liu, Di Wu, Guoming Yu, Mike Yao
-    - Trust is one of the most important factors shaping whether and how people adopt and rely on artificial intelligence (AI). Yet most existing studies measure trust in terms of functionality, focusing on whether a system is reliable, accurate, or easy to use, while giving less attention to the social and emotional dimensions that are increasingly relevant for today's generative AI (GenAI) systems. These systems do not just process information; they converse, respond, and collaborate with users, blurring the line between tool and partner. In this study, we introduce and validate the Human-AI Trust Scale (HAITS), a new measure designed to capture both the rational and relational aspects of trust in GenAI. Drawing on prior trust theories, qualitative interviews, and two waves of large-scale surveys in China and the United States, we used exploratory (n = 1,546) and confirmatory (n = 1,426) factor analyses to identify four key dimensions of trust: Affective Trust, Competence Trust, Benevolence & Integrity, and Perceived Risk. We then applied latent profile analysis to classify users into six distinct trust profiles, revealing meaningful differences in how affective-competence trust and trust-distrust frameworks coexist across individuals and cultures. Our findings offer a validated, culturally sensitive tool for measuring trust in GenAI and provide new insight into how trust evolves in human-AI interaction. By integrating instrumental and relational perspectives of trust, this work lays the foundation for more nuanced research and design of trustworthy AI systems.
-
+    - TThis project develops and validates the Human–AI Trust Scale (HAITS), a multidimensional measure of trust in generative AI. Using two large-scale surveys from China and the United States, we identify four dimensions of trust and six latent trust profiles. The project provides a cross-culturally validated framework for understanding trust formation in human–AI interaction.
 
 - Conversational Dynamics Between Human and Gendered AI, Weizi Liu, **Haocan Sun**, Mike Yao
-    - This study applies a dynamic systems approach to examine how conversational patterns shape user evaluations of gendered AI chatbots. Inspired by Communication Accommodation Theory and Gender Schema Theory, we analyzed chat histories from two online experiments (N = 499) in which chatbot gender (female, male, neutral) was manipulated. Sequence analysis and State Space Grid (SSG) modeling captured conversational sequence patterns, conversational flexibility, attractor stability, and exit timing. Results showed that gender matching between humans and AI barely influences conversational patterns or user evaluations. Instead, temporal dynamics—particularly higher problem-solving attractor proportion (i.e., the percentage of conversation spent in stable, cooperative states)—predicted greater perceived competence, integrity, and satisfaction, while delayed attractor exits correlated with reduced evaluations. Participants clustered into three conversational types: Prosocial, Overextended, and Low Involvement. The Prosocial type produced the most positive outcomes. These findings highlight that feedback-driven coordination, not gender cues, governs human–AI relational quality, underscoring a shift toward process-based rather than identity-based social evaluations in the era of large language models.
-
-# 💬 Academic Conference
-- *2025.06*, Liu, D., **Sun, H**. & Xu, J. The Effect of Emphasizing the Climate Change Background on Cultivating Supporters and Information Engagers of Genetically Modified Crops, 75th Annual ICA Conference.
-- *2024.06*, **SUN, H**., KUN, T. (2024). Effect of school-based online comprehensive sexuality education of vocational high school students: a cluster randomized controlled trial, 74th Annual ICA Conference, offline Conference, June, 2024.
-- *2022.05*, **SUN, H**. (2022). Freedom Inside the Cage-The Twisted Media Gender Imagination of Femininity in Heterosexual Patriarchy, 72st Annual ICA Conference, Online Conference, May, 2022.
-- *2022.06*, **SUN, H**., HU, Z., Zhang, Z. (2021). Social media use and addiction in China: a negative reinforcement mediating effect of well-being, IAMCR 2021, Health Communication #HEC.
-- *2021.05*,  **SUN, H**., HU, Z. (2021). Sexual Identity Realization in Relational Cyber-Imagination: The Practice of Female Nisu Fans in Chinese Slash Writings, 71st Annual ICA Conference, Online Conference, May, 2021.
-- *2021.06*, HU, Z., **SUN, H**., Liang, H (2021). Empirical Resistance to Chinese Conventional Sexual Norms: Exposure to Sexually Explicit Media, Sex Attitude, and Sex without Condoms, IAMCR 2021, Gender and Communication #GEN
-
+    - This project applies a dynamic systems perspective to examine how conversational dynamics shape evaluations of gendered AI chatbots. Using sequence analysis and State Space Grid modeling, we show that temporal coordination, but not gender matching, predicts trust, competence, and user satisfaction, highlighting the importance of interaction processes over social identity cues.
 
 
 # 📚 Educations        
 - *2022.09 - 2025.06*, Beijing Normal University (BNU), Beijing, China
     - Major, Communication, Faculty of Journalism and Communication
-    - During my master's studies, the theories and methods of communication were insufficient to meet my aspirations in health communication. Therefore, neuroscience and psychology expanded my toolkit, while the public health perspective drove me to address real-world problems and draw impactful conclusions.
-
+    - My master’s training expanded my research beyond communication into neuroscience, psychology, and public health. These disciplines have shaped my interest in understanding communication mechanisms while designing interventions for real-world health challenges.
 - *2018.09 - 2022.06*, Communication University of China (CUC), Beijing, China
     - Major, TV Editing and Directing, Faculty of Journalism and Communication
-    - During my undergraduate years, I studied journalism and received four years of training in text and image editing. I learned how to use journalism to promote social progress. However, rather than standing in opposition to the government to supervise, I am more inclined to conduct practical research and health interventions that can directly contribute to policy-making. Therefore, I am committed to becoming a health communication scholar.
+    - My undergraduate training in journalism introduced me to storytelling, visual communication, and social impact. It also convinced me that communication research should not only explain problems but also contribute practical solutions through evidence-based interventions.
 
 
-# 💻 Internships
-**Academic**   
+---
 
-- *2024.09 - Present* Research Assistant  |  University of Illinois Urbana-Champaign Media, Technology, and Social Behavior Lab
-    - Serve under Professor Mike Zhengyu Yao
-    - Current Projects: Trust Ttransfer in the GenAI Era and Problematic Use of GenAI
+## 🤝 Let's Connect
 
-- *2022.09 - Present* Research Assistant  |  Beijing Normal University Cognitive Neuroscience and Communication Lab
-    - Serve under Professor Guoming Yu
-    - Current Projects: Neural signals predict information sharing and individual health and well-being
-
-- *2021.09 - 2024.07* Research Assistant  |  Tsinghua University Vanke School of Public Health
-    - Serve under Professor Kun Tang
-    - Projects: Randomized Controlled Study of China's Sex Education.
-    - Implementation science of Early Essential Newborn Care.
-    - Infodemiology of HIV/AIDS in China
-
+I'm always happy to discuss research, exchange ideas, or explore potential collaborations. Feel free to reach out!
